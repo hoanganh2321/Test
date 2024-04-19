@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I Am Kaioshin","👑 Code by Kaioshin"];
+const statusMessages = ["👑 I Am Kaioshin"," Code by Kaioshin"];
 
 
 let currentIndex = 0;
